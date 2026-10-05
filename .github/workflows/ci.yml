@@ -19,4 +19,5 @@ jobs:
           python-version: "3.12"
 
       - name: Run application
-        run: python app/main.py
+        run: python app/no-existe.py
+
